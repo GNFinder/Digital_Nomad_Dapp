@@ -7,7 +7,7 @@ To follow my work, clone this repo and use these commands:
 2. Run `yarn start` to start the project
 3. Start coding!
 
-Check out the verified contract here [Etherscan](https://goerli.etherscan.io/address/0xcc56be298a8125d579e8141f1aa52e4a72629f37#code)
+Check out the verified contract on [Etherscan](https://goerli.etherscan.io/address/0xcc56be298a8125d579e8141f1aa52e4a72629f37#code)
 
 ### **Questions?**
 Have some questions make sure you send me a messeage [Twitter](https://twitter.com/JamalForbes_)
