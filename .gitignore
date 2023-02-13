@@ -1,0 +1,4 @@
+node_modules/
+build/
+yarn.lock
+2.App.js

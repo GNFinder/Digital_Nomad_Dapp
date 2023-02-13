@@ -1,0 +1,26 @@
+.hover-container {
+    /* justify-content: space-between; */
+    font-family: -apple-system, Inter, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    max-width: inline-block;
+    color: white;
+    transition: all 0.3s ease-in-out;
+    border-radius: 10px;
+    max-width: 350px;
+    background-color: #292c3f;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: inline-block;
+    max-width: inline-block;
+    max-height: inline-block;
+}
+
+.hover-container:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
